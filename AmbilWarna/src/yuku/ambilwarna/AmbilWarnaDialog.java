@@ -73,7 +73,11 @@ public class AmbilWarnaDialog {
 				}
 	
 
+<<<<<<< HEAD
 //////////////////////////Chal bhai change hoja Hasnain Bhai bola
+=======
+//////////////////////////Chal bhai  Hasnain guddo guddo
+>>>>>>> origin/master
 			return false;
 			}
 		});
