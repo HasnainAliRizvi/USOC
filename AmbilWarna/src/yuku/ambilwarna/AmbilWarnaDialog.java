@@ -71,7 +71,10 @@ public class AmbilWarnaDialog {
 
 					return true;
 				}
-				return false;
+	
+
+//////////////////////////Chal bhai change hoja
+			return false;
 			}
 		});
 		viewSatVal.setOnTouchListener(new View.OnTouchListener() {
